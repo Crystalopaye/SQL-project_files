@@ -39,7 +39,7 @@ Roles requiring data engineering, ML, or real-time analytics skills
 offer premium pay, signaling that top-tier analyst positions now expect skills traditionally 
 associated with data scientists or data engineers.
 
-Cloud and Multi-Platform Expertise Carries a Salary Premium
+-Cloud and Multi-Platform Expertise Carries a Salary Premium
 Experience with cloud ecosystems and the ability to integrate multiple tools
  (e.g., Airflow, dbt, Kafka) results in higher compensation, especially in remote roles
   where scalable, production-ready analytics are highly valued.
