@@ -20,7 +20,7 @@ This SQL project analyzes the data analyst job market to answer key career quest
 
 4. Highest-paid skills
 
-5. Optimal skills: High demand AND high pay
+5. Optimal skills: High demand and high pay
 
 # Tools I Used
 I analyzed the data analyst job market using a streamlined tech stack:
