@@ -68,7 +68,7 @@ Here is the breakdown of the top data analyst jobs in 2023:
 
 - All top 10 roles are fully remote and full-time, confirming that high compensation is increasingly location-agnostic and focused on senior-level expertise.
 
-![Top Paying Roles ](Analysis\1_chart.png)
+![Top Paying Roles ](Analysis/1_chart.png)
 *Bar chart comparing the top 10 data analyst salaries by company; created from SQL results using Excel PivotChart*
 
 
@@ -121,7 +121,7 @@ The query reveals that the highest-paying Data Analyst roles require a mix of:
 - Cloud platforms (AWS, Azure, GCP)
 - Big Data technologies (Spark, Hadoop)
 
-![Top Skills](/Analysis\2_chart.png)
+![Top Skills](/Analysis/2_chart.png)
 *Bar chart showing the top 10 skills by company; created from SQL results using Excel PivotChart*
 
 
@@ -185,7 +185,7 @@ The job_work_from_home = True filter reveals:
 - Cloud-based tools likely have higher demand in remote positions
 - Communication/collaboration tools might appear in extended lists
 
-![Top demand skills](/Analysis\3_chart.png)
+![Top demand skills](/Analysis/3_chart.png)
 *Bar chart showing the top 5 skills by demand; created from SQL results using Excel PivotChart*
 
 
@@ -231,7 +231,7 @@ Experience with cloud ecosystems and the ability to integrate multiple tools
  (e.g., Airflow, dbt, Kafka) results in higher compensation, especially in remote roles
   where scalable, production-ready analytics are highly valued.
 
-  ![Average Salary per skill](/Analysis\4_chart.png)
+  ![Average Salary per skill](/Analysis/4_chart.png)
 
   *Bar chart showing the average salaries per skill; created from SQL results using Excel PivotChart*
 
@@ -311,7 +311,7 @@ earnings.
 steady demand, even if their individual salary impact is slightly lower—they become
  high-value when paired with programming skills.
 
-![Optimal skills ](/Analysis\5_chart.png)
+![Optimal skills ](/Analysis/5_chart.png)
   *Bar chart showing the high-demand skills with their average salaries; created from SQL results using Excel PivotChart*
 
 
